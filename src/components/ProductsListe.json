@@ -1,0 +1,66 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Laptop",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "title": "Smartphone",
+      "price": 800
+    },
+    {
+      "id": 3,
+      "title": "Headphones",
+      "price": 150
+    },
+    {
+      "id": 4,
+      "title": "Headphones",
+      "price": 150
+    }
+    ,
+    {
+      "id": 5,
+      "title": "Headphones",
+      "price": 150
+    }
+    ,
+    {
+      "id": 6,
+      "title": "Headphones",
+      "price": 150
+    }
+    ,
+    {
+      "id": 7,
+      "title": "Headphones",
+      "price": 150
+    }
+    ,
+    {
+      "id": 8,
+      "title": "Headphones",
+      "price": 150
+    }
+    ,
+    {
+      "id": 9,
+      "title": "Headphones",
+      "price": 150
+    }
+    ,
+    {
+      "id": 10,
+      "title": "Headphones",
+      "price": 150
+    }
+    ,
+    {
+      "id": 11,
+      "title": "Headphones",
+      "price": 150
+    }
+  ]
+}
